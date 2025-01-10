@@ -99,7 +99,9 @@ struct Lecture_52_SwiftData: View {
     private func UpdateItem(item: Item) {
         item.name = "Updated Name"
     }
-    
+    //I am working on Demo Branch and this is so cool for me
+    //this time i will make sure that i use git all the time and be a real developer
+    //2025 will be my year
     
     
 }
