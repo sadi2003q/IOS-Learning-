@@ -20,9 +20,6 @@ class Item : Identifiable {
     }
 }
 
-
-
-
 struct Lecture_52_SwiftData: View {
     
     @Environment(\.modelContext) private var modelContext
