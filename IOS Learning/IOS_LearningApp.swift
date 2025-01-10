@@ -13,8 +13,8 @@ struct IOS_LearningApp: App {
     var body: some Scene {
         
         WindowGroup {
-            Lecture_52_SwiftData()
+            StudentView()
         }
-        .modelContainer(for: Item.self)
+        .modelContainer(for: Student.self)
     }
 }
